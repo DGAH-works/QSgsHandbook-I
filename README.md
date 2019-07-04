@@ -11,3 +11,9 @@
 # 对适用神杀版本的说明
 
 这本学习手册是当初是参照神杀 V2 - Alpha1005 版进行编写的，该版本是一个用于测试的非正式版本。与此最接近的正式版本是 V2 - 20121221 版，或称末日版。
+
+# 下载链接
+
+- [单文件版](https://github.com/DGAH-works/QSgsHandbook-I/archive/Alpha1005.zip)
+
+- [分章节版](https://github.com/DGAH-works/QSgsHandbook-I/archive/Alpha1005-II.zip)
